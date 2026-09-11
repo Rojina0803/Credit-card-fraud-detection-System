@@ -259,7 +259,7 @@ The final threshold is selected based on the project's chosen evaluation objecti
 
 ## Model Performance
 
-> Replace the values below with the actual results from your notebook.
+
 
 | Model                              | Precision | Recall | F1-Score | ROC-AUC | PR-AUC |
 | ---------------------------------- | --------: | -----: | -------: | ------: | -----: |
